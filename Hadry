@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dark Theme Page</title>
+	<style>
+		body {
+			background-color: #252525;
+			color: #FFFFFF;
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+
+		#upper-panel {
+			background-color: #333333;
+			height: 50px;
+			display: flex;
+			align-items: center;
+			padding: 0 20px;
+			justify-content: space-between;
+		}
+
+		#upper-panel h1 {
+			margin: 0;
+			font-size: 24px;
+			font-weight: bold;
+			color: #FFFFFF;
+		}
+
+		#login-panel {
+			background-color: #1a1a1a;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 200px;
+		}
+
+		#login-panel label {
+			color: #FFFFFF;
+			font-size: 18px;
+			margin-right: 10px;
+		}
+
+		#login-panel input[type="text"],
+		#login-panel input[type="password"] {
+			background-color: #333333;
+			border: none;
+			border-radius: 5px;
+			color: #FFFFFF;
+			font-size: 18px;
+			padding: 10px;
+			margin-right: 10px;
+			width: 200px;
+		}
+
+		#login-panel input[type="submit"] {
+			background-color: #d35400;
+			border: none;
+			border-radius: 5px;
+			color: #FFFFFF;
+			cursor: pointer;
+			font-size: 18px;
+			padding: 10px 20px;
+		}
+
+		#login-panel input[type="submit"]:hover {
+			background-color: #e67e22;
+		}
+	</style>
+</head>
+<body>
+	<div id="upper-panel">
+		<h1>Hadry</h1>
+		<div id="login-form">
+			<form>
+				<label for="email">Email:</label>
+				<input type="text" id="email" name="email" placeholder="Enter your email">
+				<label for="password">Password:</label>
+				<input type="password" id="password" name="password" placeholder="Enter your password">
+				<input type="submit" value="Login">
+			</form>
+		</div>
+	</div>
+	<div id="login-panel">
+		<!-- Your login form goes here -->
+	</div>
+</body>
+</html>
