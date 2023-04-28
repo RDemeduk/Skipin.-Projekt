@@ -66,6 +66,25 @@
 		#login-panel input[type="submit"]:hover {
 			background-color: #e67e22;
 		}
+		#category-panel {
+			background-color: #333333;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			padding: 20px;
+			height: calc(100vh - 250px);
+			width: 200px;
+		}
+
+		.category-link {
+			color: #FFFFFF;
+			text-decoration: none;
+			font-size: 18px;
+			margin: 10px 0;
+		}
+
+		.category-link:hover {
+			text-decoration: underline;
 	</style>
 </head>
 <body>
@@ -101,6 +120,13 @@
 	</div>
 	<div id="login-panel">
 		<!-- Your login form goes here -->
+	</div>
+	<div id="category-panel">
+		<a href="#" class="category-link">Blank Category 1</a>
+		<a href="#" class="category-link">Blank Category 2</a>
+		<a href="#" class="category-link">Blank Category 3</a>
+		<a href="#" class="category-link">Blank Category 4</a>
+		<a href="#" class="category-link">Blank Category 5</a>
 	</div>
 </body>
 </html>
