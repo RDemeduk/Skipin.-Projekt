@@ -175,12 +175,6 @@
 		<a href="#" class="category-link">Kosmetika</a>
 		<a href="#" class="category-link">Sport</a>
 	</div>
-	<div class="panel">
-		<h2>Dark Theme Panel</h2>
-		<p>Here is some sample text for the dark theme panel.</p>
-		<p>You can add links, buttons, or any other content you like.</p>
-		<a href="#">Example link</a>
-	</div>
 	<div class="box"></div>
 	<div class="box"></div>
 	<div class="box"></div>
