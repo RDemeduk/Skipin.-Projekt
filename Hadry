@@ -85,6 +85,39 @@
 
 		.category-link:hover {
 			text-decoration: underline;
+			<title>Dark Theme Panel</title>
+		body {
+			background-color: #1f1f1f;
+		}
+
+		.panel {
+			position: fixed;
+			top: 0;
+			right: 0;
+			width: 300px;
+			height: 100%;
+			background-color: #242424;
+			color: #fff;
+			padding: 20px;
+			box-sizing: border-box;
+			font-family: Arial, sans-serif;
+			font-size: 16px;
+			line-height: 1.5;
+			overflow-y: auto;
+		}
+
+		.panel h2 {
+			margin-top: 0;
+		}
+
+		.panel a {
+			color: #fff;
+			text-decoration: none;
+		}
+
+		.panel a:hover {
+			text-decoration: underline;
+		}
 	</style>
 </head>
 <body>
@@ -127,6 +160,12 @@
 		<a href="#" class="category-link">Děti</a>
 		<a href="#" class="category-link">Kosmetika</a>
 		<a href="#" class="category-link">Sport</a>
+	</div>
+	<div class="panel">
+		<h2>Dark Theme Panel</h2>
+		<p>Here is some sample text for the dark theme panel.</p>
+		<p>You can add links, buttons, or any other content you like.</p>
+		<a href="#">Example link</a>
 	</div>
 </body>
 </html>
