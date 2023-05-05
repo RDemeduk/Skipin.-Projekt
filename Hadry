@@ -122,11 +122,11 @@
 		<!-- Your login form goes here -->
 	</div>
 	<div id="category-panel">
-		<a href="#" class="category-link">Blank Category 1</a>
-		<a href="#" class="category-link">Blank Category 2</a>
-		<a href="#" class="category-link">Blank Category 3</a>
-		<a href="#" class="category-link">Blank Category 4</a>
-		<a href="#" class="category-link">Blank Category 5</a>
+		<a href="#" class="category-link">Ženy</a>
+		<a href="#" class="category-link">Muži</a>
+		<a href="#" class="category-link">Děti</a>
+		<a href="#" class="category-link">Kosmetika</a>
+		<a href="#" class="category-link">Sport</a>
 	</div>
 </body>
 </html>
