@@ -117,6 +117,20 @@
 
 		.panel a:hover {
 			text-decoration: underline;
+		<title>Black Boxes</title>
+		body {
+			background-color: #f1f1f1;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 100vh;
+		}
+
+		.box {
+			width: 50px;
+			height: 50px;
+			background-color: #000;
+			margin: 10px;
 		}
 	</style>
 </head>
@@ -167,5 +181,8 @@
 		<p>You can add links, buttons, or any other content you like.</p>
 		<a href="#">Example link</a>
 	</div>
+	<div class="box"></div>
+	<div class="box"></div>
+	<div class="box"></div>
 </body>
 </html>
