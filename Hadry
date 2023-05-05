@@ -238,6 +238,11 @@
 		<div class="box">
 			<img src="https://img.ltwebstatic.com/images3_pi/2021/08/19/1629356867e7771218ad04561f48768555725af5f7_thumbnail_600x.webp" alt="Image 2">
 			<div class="caption">Image 2</div>
+			
 	</div>
+	<div class="box">
+			<img src="https://img.ltwebstatic.com/images3_pi/2022/03/04/1646360810321e01b105032c44f5ebfb474624bb04_thumbnail_600x.webp" alt="Image 3">
+			<div class="caption">Image 3</div>
+		</div>
 </body>
 </html>
