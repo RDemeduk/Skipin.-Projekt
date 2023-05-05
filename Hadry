@@ -232,15 +232,15 @@
 
 	<div class="container">
 		<div class="box">
-			<img src="https://picsum.photos/800/600/?random" alt="Image 1">
+			<img src="https://img.ltwebstatic.com/images3_pi/2022/11/16/166859174215d9bc0064f7cd2454529c83bdfd9b15.webp" alt="Image 1">
 			<div class="caption">Image 1</div>
 		</div>
 		<div class="box">
-			<img src="https://picsum.photos/800/600/?random" alt="Image 2">
+			<img src="https://img.ltwebstatic.com/images3_pi/2021/08/19/1629356867e7771218ad04561f48768555725af5f7_thumbnail_600x.webp" alt="Image 2">
 			<div class="caption">Image 2</div>
 		</div>
 		<div class="box">
-			<img src="https://picsum.photos/800/600/?random" alt="Image 3">
+			<img src="https://img.ltwebstatic.com/images3_pi/2022/03/04/1646360810321e01b105032c44f5ebfb474624bb04_thumbnail_600x.webp" alt="Image 3">
 			<div class="caption">Image 3</div>
 		</div>
 	</div>
