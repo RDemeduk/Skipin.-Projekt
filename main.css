@@ -181,3 +181,18 @@ body {
 .box:hover::after {
     opacity: 1;
 }
+.img1{
+    width: 50vw;
+    height: 50vh;
+}
+.img2{
+    width: 50vw;
+    height: 50vh;
+}
+.img3{
+    width: 50vw;
+    height: 50vh;
+}.img4{
+    width: 50vw;
+    height: 50vh;
+}
