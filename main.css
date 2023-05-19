@@ -196,3 +196,17 @@ body {
     width: 10vw;
     height: 10vh;
 }
+    <link rel="stylesheet" href="main.css">
+    <<style>
+    /* Add any additional styles you want */
+    .navbar {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      background-color: #f8f9fa;
+      padding: 10px;
+    }
+
+    .navbar-item {
+      margin-right: 10px;
+    }
