@@ -181,28 +181,10 @@ body {
 .box:hover::after {
     opacity: 1;
 }
-.img1{
+.box{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
-.img2
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-.img3{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-}.img4{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+
 
